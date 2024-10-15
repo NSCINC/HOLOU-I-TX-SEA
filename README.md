@@ -1,7 +1,6 @@
 
 # HOLOU-I TX SEA 🚀
 
-![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png)
 
 ## Descrição
 O **HOLOU-I TX SEA** é um sistema de processamento paralelo que utiliza threads para simular a execução de tarefas em diferentes provedores de armazenamento. O sistema é projetado para demonstrar o uso de multithreading em C, permitindo o processamento simultâneo de várias tarefas de entrada/saída (I/O).
